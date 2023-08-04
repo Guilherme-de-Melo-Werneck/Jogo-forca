@@ -33,8 +33,8 @@ def jogar_jogo_da_velha():
                  [" ", " ", " "],
                  [" ", " ", " "]]
 
-    jogador1 = input("Digite o nome do jogador 1= ")
-    jogador2 = input("Digite o nome do jogador 2= ")
+    jogador1 = input("Digite o nome do jogador 1: ")
+    jogador2 = input("Digite o nome do jogador 2: ")
 
     jogadores = [jogador1, jogador2]
     simbolos = ["X", "O"]
